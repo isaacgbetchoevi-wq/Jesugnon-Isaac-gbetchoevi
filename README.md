@@ -142,7 +142,7 @@ Mathematical modeling and numerical simulation of antenna and pendulum systems u
 <h2 align="center">Let's Talk</h2>
 
 <p align="center">
-  I am open to <b>full-time positions</b>, <b>internships</b>, and <b>freelance missions</b> in Data Analysis and Data Science — in France or internationally.
+  I am open to <b>full-time positions</b> in Data Analysis and Data Science — in Paris and Ile de France regions.
 </p>
 
 <div align="center">
