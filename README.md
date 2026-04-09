@@ -123,19 +123,6 @@ Mathematical modeling and numerical simulation of antenna and pendulum systems u
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
-
-<div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=000000&text_color=333333&bg_color=ffffff&count_private=true" alt="GitHub Stats" />
-  &nbsp;
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true&title_color=000000&text_color=333333&bg_color=ffffff" alt="Top Languages" />
-  
-  <br><br>
-  
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=333333&dates=555555&currStreakNum=000000&sideNums=000000" alt="GitHub Streak" />
-  </a>
-</div>
 
 <hr>
 
@@ -158,9 +145,5 @@ Mathematical modeling and numerical simulation of antenna and pendulum systems u
 <br>
 <hr>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=000000&label=Profile+views" alt="Profile Views" />
-  
-  <p><i>"Without data, you're just another person with an opinion."</i> — <b>W. Edwards Deming</b></p>
-</div>
+
 
