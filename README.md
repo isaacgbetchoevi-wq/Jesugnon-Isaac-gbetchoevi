@@ -123,9 +123,6 @@ Mathematical modeling and numerical simulation of antenna and pendulum systems u
 
 ---
 
-
-<hr>
-
 <h2 align="center">Let's Talk</h2>
 
 <p align="center">
