@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=180&text=Isaac%20J.%20GBETCHOEVI&fontSize=46&fontColor=ffffff&fontAlignY=45&desc=Math%20Appliquées%20%E2%80%A2%20Data%20%E2%80%A2%20IA&descSize=15&descAlignY=68&descColor=cccccc&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=180&text=Isaac%20J.%20GBETCHOEVI&fontSize=46&fontColor=ffffff&fontAlignY=45&desc=Mathématique%20Appliquée%20%E2%80%A2%20Data%20%E2%80%A2%20IA&descSize=15&descAlignY=68&descColor=cccccc&animation=fadeIn" />
 
 <br><br>
 
