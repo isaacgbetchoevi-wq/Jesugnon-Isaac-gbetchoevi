@@ -29,9 +29,9 @@
 
 ## À propos
 
-Je suis un **mathématicien appliqué** spécialisé en modélisation statistique, analyse de séries temporelles et résolution de problèmes complexes par les données. Mon parcours fait le pont entre les mathématiques fondamentales et leurs applications concrètes : de la prévision d'indicateurs macroéconomiques via les modèles ARIMA/GARCH à la stabilisation de systèmes physiques par simulation numérique.
+Je suis diplômé d'un master en **mathématique appliquée** spécialisé en modélisation statistique, analyse de séries temporelles et résolution de problèmes complexes par les données. Mon parcours fait le pont entre les mathématiques fondamentales et leurs applications concrètes : de la prévision d'indicateurs macroéconomiques via les modèles ARIMA/GARCH à la stabilisation de systèmes physiques par simulation numérique.
 
-Rigoureux et analytique, je suis profondément motivé par les projets à fort impact. Je recherche actuellement un poste de **Chargé d'études actuarielles** ou de **Data Scientist** où je pourrai apporter une valeur ajoutée immédiate.
+Rigoureux et analytique, je suis profondément motivé par les projets à fort impact. Je recherche actuellement un poste de **Data Scientist** où je pourrai apporter une valeur ajoutée immédiate.
 
 ---
 
@@ -71,7 +71,7 @@ Méthodes numériques · Modélisation par les données · Simulation · Contrô
 
 ---
 
-### Master en Mathématiques Pures et Appliquées
+### Master en Mathématiques fondamentales et Applications
 **Institut de Mathématiques et de Sciences Physiques (IMSP)** · 2022 – 2024 · Bénin
 
 Optimisation numérique · Probabilités & Statistiques · Analyse mathématique
@@ -95,13 +95,13 @@ Optimisation numérique · Probabilités & Statistiques · Analyse mathématique
 
 **Domaines**
 
-`Analyse de séries temporelles` &nbsp; `Modélisation Statistique` &nbsp; `Économétrie` &nbsp; `Optimisation Numérique` &nbsp; `Contrôle Optimal` &nbsp; `Machine Learning` *(en cours)* &nbsp; `Visualisation de données` *(en cours)*
+`Analyse de séries temporelles` &nbsp; `Modélisation Statistique` &nbsp; `Économétrie` &nbsp; `Optimisation Numérique` &nbsp; `Contrôle Optimal` &nbsp; `Machine Learning` * * &nbsp; `Visualisation de données` * *
 
 ---
 
 ## Projets
 
-> Mes projets sont publiés progressivement. Chacun reflète une application concrète de mes compétences mathématiques et data.
+> 
 
 ---
 
@@ -122,7 +122,7 @@ Modélisation mathématique et simulation numérique de systèmes d'antennes et 
 <h2 align="center">Contactez-moi</h2>
 
 <p align="center">
-  Je suis ouvert à des <b>opportunités en CDI</b> en Actuariat et Data Science — idéalement en Île-de-France.
+  Je suis ouvert à des <b>opportunités en CDI</b> en Data Science — idéalement en Île-de-France.
 </p>
 
 <div align="center">
